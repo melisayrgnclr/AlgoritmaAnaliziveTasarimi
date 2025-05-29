@@ -33,7 +33,10 @@ Python 3.7+ yüklü olmalıdır.
 ```bash
 pip install PyQt5
 
-▶️ Kullanım         python main.py
+▶️ Kullanım
+```bash
+python main.py
+
 Açılan arayüzde:
 
 Düğüm ve kenar sayılarını girin.
