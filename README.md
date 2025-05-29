@@ -48,3 +48,7 @@ Düzen seçin (Daire/Grid).
 "Başlat" ile adım adım çizimi izleyin.
 
 "Durdur" veya "Sıfırla" ile işlemi kontrol edin.
+
+## 📹 Video
+
+Video bağlantısı:https://youtu.be/aPiXbp09GWU
