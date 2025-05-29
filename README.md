@@ -1,1 +1,1 @@
-# AlgoritmaAnaliziveTasarimi
+# AlgoritmaAnaliziveTasarımı
