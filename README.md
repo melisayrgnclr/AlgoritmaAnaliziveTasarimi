@@ -33,7 +33,7 @@ Python 3.7+ yüklü olmalıdır.
 ```bash
 pip install PyQt5
 
-▶️ Kullanım
+##▶️ Kullanım
 ```bash
 python main.py
 
