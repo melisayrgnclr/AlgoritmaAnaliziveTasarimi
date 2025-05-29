@@ -32,7 +32,7 @@ Python 3.7+ yüklü olmalıdır.
 
 pip install PyQt5
 
-##▶️ Kullanım
+## ▶️ Kullanım
 
 python main.py
 
