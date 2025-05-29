@@ -30,12 +30,9 @@ Bu proje, **Kruskal algoritmasını** kullanarak bir grafın **Minimum Örtücü
 
 Python 3.7+ yüklü olmalıdır.
 
-```bash
-pip install PyQt5
+
 
 ##▶️ Kullanım
-```bash
-python main.py
 
 Açılan arayüzde:
 
