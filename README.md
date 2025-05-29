@@ -1,4 +1,4 @@
-# AlgoritmaAnaliziveTasarimi
+# Algoritma Analizi ve Tasarimi Proje Ödevi
 # Kruskal Algoritması Görselleştirici (PyQt5)
 
 Bu proje, **Kruskal algoritmasını** kullanarak bir grafın **Minimum Örtücü Ağacı (MST)**'nı adım adım oluşturan ve süreci **görsel olarak animasyonla** gösteren bir uygulamadır.
